@@ -1,0 +1,45 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ders35_core_model_binding
+build_property.RootNamespace = ders35_core_model_binding
+build_property.ProjectDir = C:\Users\birka\Desktop\İ - Akademi Kurs\6. Ay (Şubat)\5 Şubat 2023 Pazar (35. Ders)\ders35_core_model_binding\ders35_core_model_binding\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\birka\Desktop\İ - Akademi Kurs\6. Ay (Şubat)\5 Şubat 2023 Pazar (35. Ders)\ders35_core_model_binding\ders35_core_model_binding
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/birka/Desktop/İ - Akademi Kurs/6. Ay (Şubat)/5 Şubat 2023 Pazar (35. Ders)/ders35_core_model_binding/ders35_core_model_binding/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/birka/Desktop/İ - Akademi Kurs/6. Ay (Şubat)/5 Şubat 2023 Pazar (35. Ders)/ders35_core_model_binding/ders35_core_model_binding/Views/Home/KategoriliUrunler.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxLYXRlZ29yaWxpVXJ1bmxlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/birka/Desktop/İ - Akademi Kurs/6. Ay (Şubat)/5 Şubat 2023 Pazar (35. Ders)/ders35_core_model_binding/ders35_core_model_binding/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/birka/Desktop/İ - Akademi Kurs/6. Ay (Şubat)/5 Şubat 2023 Pazar (35. Ders)/ders35_core_model_binding/ders35_core_model_binding/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/birka/Desktop/İ - Akademi Kurs/6. Ay (Şubat)/5 Şubat 2023 Pazar (35. Ders)/ders35_core_model_binding/ders35_core_model_binding/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/birka/Desktop/İ - Akademi Kurs/6. Ay (Şubat)/5 Şubat 2023 Pazar (35. Ders)/ders35_core_model_binding/ders35_core_model_binding/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/birka/Desktop/İ - Akademi Kurs/6. Ay (Şubat)/5 Şubat 2023 Pazar (35. Ders)/ders35_core_model_binding/ders35_core_model_binding/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ocrci87t47
